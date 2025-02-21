@@ -2,11 +2,11 @@
 ####################### Makefile Template ##############################
 ########################################################################
 # Student settings
-NAME = YOURNAME
-SID = YOURSID
-EMAIL = YOURUTAEMAIL
+NAME = Jocelyn Bui
+SID = 1001974357
+EMAIL = jxb4357@mavs.uta.edu
 SEMESTER = SPRING2025
-PROJECT=PROJ03
+PROJECT = PROJ03
  
 
 ####### DO NOT EDIT BELOW THIS LINE!!! #########
